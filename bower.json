@@ -1,0 +1,17 @@
+{
+  "name": "201608blog",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "luzhaoxuan <897196877@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
